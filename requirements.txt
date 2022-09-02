@@ -1,0 +1,8 @@
+gunicorn==20.0.4
+
+numpy
+pandas
+sklearn
+streamlit
+requests
+joblib==1.1.0
